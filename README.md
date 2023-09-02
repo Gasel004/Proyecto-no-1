@@ -1,3 +1,4 @@
 # Proyecto-no-1
 Grupo no3
-video del segundo enunciado:
+Video del segundo enunciado: https://youtu.be/rGl56p-xpAo
+Video del primer enunciado: 
